@@ -1,4 +1,5 @@
 *.zip
+.DS_Store
+*.pkl
 /anime_dataset/
 /.ipynb_checkpoints/
-.DS_Store
